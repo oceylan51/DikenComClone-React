@@ -1,12 +1,11 @@
 import React from 'react'
-
 function FirstNavbar() {
     return (
         <nav>
             <div id="menu-btn-div">
                 <button id="menu-btn">MENÜ</button>
             </div>
-            <div class="nav-content bg-white">
+            <div id='firstNav' class="nav-content bg-white">
                 <ul class="d-flex mb-0">
                     <li><a href="">ROTA</a></li>
                     <li><a href="">9 SORUDA</a></li>
